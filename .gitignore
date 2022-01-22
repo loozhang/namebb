@@ -2,6 +2,7 @@
 #log/namebb.log
 #/log
 /log/*
+/venv/*
 .idea/workspace.xml
 
 .idea/workspace.xml
