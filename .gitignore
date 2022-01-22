@@ -12,3 +12,5 @@ mongo.log
 
 templates/.idea/workspace.xml
 *.pyc
+*.pyo
+*.iml
