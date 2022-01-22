@@ -10,3 +10,10 @@ chenliang.info/name
 Also,
 
 IT'S A GIRL !!!!! 
+
+----------------------------------------------------------
+Above is the edition from https://github.com/newcl/namebb
+
+Thanks and give my respect.
+
+And I made some modifications to adapt to Python3. Now this project can work under Python3 env.
